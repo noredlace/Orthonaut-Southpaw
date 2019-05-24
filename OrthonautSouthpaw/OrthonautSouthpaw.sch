@@ -1456,17 +1456,6 @@ F 3 "" H 4150 9200 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keebio:Hole H2
-U 1 1 5CE95236
-P 3400 8700
-F 0 "H2" H 3586 8753 60  0000 L CNN
-F 1 "Hole" H 3586 8647 60  0000 L CNN
-F 2 "keyboard_parts:Poker_side_edge_long" H 3400 8700 60  0001 C CNN
-F 3 "" H 3400 8700 60  0001 C CNN
-	1    3400 8700
-	1    0    0    -1  
-$EndComp
-$Comp
 L keebio:Hole H5
 U 1 1 5CE9523C
 P 4150 8700
@@ -1475,17 +1464,6 @@ F 1 "Hole" H 4336 8647 60  0000 L CNN
 F 2 "keyboard_parts:Poker_oval_hole" H 4150 8700 60  0001 C CNN
 F 3 "" H 4150 8700 60  0001 C CNN
 	1    4150 8700
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:Hole H1
-U 1 1 5CE9537A
-P 3400 8250
-F 0 "H1" H 3586 8303 60  0000 L CNN
-F 1 "Hole" H 3586 8197 60  0000 L CNN
-F 2 "keyboard_parts:Poker_side_edge_long" H 3400 8250 60  0001 C CNN
-F 3 "" H 3400 8250 60  0001 C CNN
-	1    3400 8250
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -2795,4 +2773,48 @@ Wire Wire Line
 	1850 3350 1850 2600
 Connection ~ 1850 2600
 NoConn ~ 2500 6850
+$Comp
+L keebio:Hole H1
+U 1 1 5CE9B221
+P 3400 7700
+F 0 "H1" H 3586 7753 60  0000 L CNN
+F 1 "Hole" H 3586 7647 60  0000 L CNN
+F 2 "keyboard_parts:Poker_oval_hole" H 3400 7700 60  0001 C CNN
+F 3 "" H 3400 7700 60  0001 C CNN
+	1    3400 7700
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H8
+U 1 1 5CE9B227
+P 4150 7700
+F 0 "H8" H 4336 7753 60  0000 L CNN
+F 1 "Hole" H 4336 7647 60  0000 L CNN
+F 2 "keyboard_parts:Poker_oval_hole" H 4150 7700 60  0001 C CNN
+F 3 "" H 4150 7700 60  0001 C CNN
+	1    4150 7700
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H7
+U 1 1 5CE9B22D
+P 4150 7200
+F 0 "H7" H 4336 7253 60  0000 L CNN
+F 1 "Hole" H 4336 7147 60  0000 L CNN
+F 2 "keyboard_parts:Poker_oval_hole" H 4150 7200 60  0001 C CNN
+F 3 "" H 4150 7200 60  0001 C CNN
+	1    4150 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H2
+U 1 1 5CE9B233
+P 4150 6750
+F 0 "H2" H 4336 6803 60  0000 L CNN
+F 1 "Hole" H 4336 6697 60  0000 L CNN
+F 2 "keyboard_parts:Poker_oval_hole" H 4150 6750 60  0001 C CNN
+F 3 "" H 4150 6750 60  0001 C CNN
+	1    4150 6750
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
