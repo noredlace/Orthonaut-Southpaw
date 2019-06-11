@@ -2018,39 +2018,39 @@ Text Label 1900 8150 3    50   ~ 0
 row2
 Text Label 2000 8150 3    50   ~ 0
 row3
-Text Label 1100 7750 2    50   ~ 0
+Text Label 2500 7750 0    50   ~ 0
 col7
-Text Label 1100 7650 2    50   ~ 0
+Text Label 2500 7650 0    50   ~ 0
 col6
-Text Label 1100 7550 2    50   ~ 0
+Text Label 2500 7550 0    50   ~ 0
 col5
-Text Label 1100 7450 2    50   ~ 0
+Text Label 2500 7450 0    50   ~ 0
 col4
-Text Label 1100 7350 2    50   ~ 0
+Text Label 2500 7350 0    50   ~ 0
 col3
-Text Label 1100 7250 2    50   ~ 0
+Text Label 2500 7250 0    50   ~ 0
 col2
-Text Label 1100 7150 2    50   ~ 0
+Text Label 2500 7150 0    50   ~ 0
 col1
-Text Label 1100 7050 2    50   ~ 0
+Text Label 2500 7050 0    50   ~ 0
 col0
 Text Label 1600 8150 3    50   ~ 0
 col8
-Text Label 2500 7050 0    50   ~ 0
+Text Label 1100 7050 2    50   ~ 0
 col9
-Text Label 2500 7150 0    50   ~ 0
+Text Label 1100 7150 2    50   ~ 0
 col10
-Text Label 2500 7250 0    50   ~ 0
+Text Label 1100 7250 2    50   ~ 0
 col11
-Text Label 2500 7350 0    50   ~ 0
+Text Label 1100 7350 2    50   ~ 0
 col12
-Text Label 2500 7450 0    50   ~ 0
+Text Label 1100 7450 2    50   ~ 0
 col13
-Text Label 2500 7550 0    50   ~ 0
+Text Label 1100 7550 2    50   ~ 0
 col14
-Text Label 2500 7750 0    50   ~ 0
+Text Label 1100 7750 2    50   ~ 0
 col16
-Text Label 2500 7650 0    50   ~ 0
+Text Label 1100 7650 2    50   ~ 0
 col15
 $Comp
 L power:GND #PWR04
