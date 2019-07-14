@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name OrthonautSouthpaw-rescue)(type Legacy)(uri ${KIPRJMOD}/OrthonautSouthpaw-rescue.lib)(options "")(descr ""))
+)
